@@ -5,7 +5,7 @@ The NATFOOD GitHub Code.R script is for an analysis that combines data from 1000
 
 Each iteration combines data on the environmental impact of diets drawn from a review of 570 life cycle analyses covering results from over 38,000 farms in 119 countries covering five continents. Combining the iterations provides an estimate of the average impact for each diet group, and an uncertainty range representing variation due to different methods of food production and sourcing.
 
-The datasets to support this code are openly available at the following URL: http://dx.doi.org/10.5287/ora-5zebayaog
+The datasets to support this code are openly available at the following URLs: http://dx.doi.org/10.5287/ora-5zebayaog and https://ora.ox.ac.uk/objects/uuid:fd3bfe80-1b8d-4d68-b471-a5621def5c24
 
 The other scripts that are available are described below, and are the scripts that are used to generate the 1000 iterations used by the NATFOOD GitHub Code.R script.
 
@@ -55,7 +55,7 @@ The 0.0 script contains functions called in the other scripts, and as such does 
 
 **Data Availability: 
 **
-Anonymised and aggregated data inputs outputs that cannot be linked back to individual EPIC participants or to individual food products will be made available here: http://dx.doi.org/10.5287/ora-5zebayaog . Other sensitive data inputs (listed below) are available on request (see section on ‘Requesting Other Data Inputs’). 
+Anonymised and aggregated data inputs outputs that cannot be linked back to individual EPIC participants or to individual food products are available here: https://ora.ox.ac.uk/objects/uuid:fd3bfe80-1b8d-4d68-b471-a5621def5c24. Other sensitive data inputs (listed below) are available on request (see section on ‘Requesting Other Data Inputs’). 
 
 
 **Non Available Data: 
